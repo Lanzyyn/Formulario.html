@@ -1,0 +1,37 @@
+:root{
+    --bg-color:rgb(118, 124, 212);
+     --primary-color: white;
+     --margin-left:
+}
+body{
+    background-color: var(--bg-color)
+}
+
+div.container h1{
+    color:  var(--primary-color);
+   
+     margin-left: 450px;
+     padding-top:100px px;
+    }
+
+    div.container h2{
+        margin-left: 495px;
+         padding-top:100px px;
+    }
+    div.container p{
+    color: var(--primary-color);
+    font-size: 16px;
+    }
+
+    div.container form{
+    border: 1px solid black;
+    margin: 100px 550px 75px 400px;
+    padding-top:100px 50px 75px 100px ;
+    left: 19px;
+}
+
+div.botao{
+    text-align:center ;
+    margin-bottom: 1px;
+}
+
